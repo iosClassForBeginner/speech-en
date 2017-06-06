@@ -36,7 +36,7 @@ http://ios-class-for-beginner.esy.es/
   <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/0.gif" /></div>
 
 #### 2, Design app
-######## UITextView
+#### UITextView
 > 2-1. Drap & Drop "UITextView" from UI components
   
   <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1-1.gif" /></div>
@@ -49,7 +49,7 @@ http://ios-class-for-beginner.esy.es/
   
   <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1-3.gif" /></div>
 
-######## UIButton
+#### UIButton
 > 2-4. Drap & Drop "UIButton" from UI components
 
   <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/2-1.gif" /></div>
@@ -102,5 +102,4 @@ class ViewController: UIViewController
         synthesizer.speak(contents)
     }
 }
-
 ```
