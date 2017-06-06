@@ -7,19 +7,27 @@
 //
 
 import UIKit
+import AVFoundation     // Import AVFoundation to access speech fearure
 
-class ViewController: UIViewController {
-
+class ViewController: UIViewController
+{
+    @IBOutlet var speechTextView: UITextView!
+    var synthesizer = AVSpeechSynthesizer()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+    
+    // Triggered action after the button tapped
+    @IBAction func speech(_ sender: Any)
+    {
+        // Create contents
+        let contents = AVSpeechUtterance(string: speechTextView.text ?? "")
+        
+        // Set language
+        contents.voice = AVSpeechSynthesisVoice(language: "en-US")
+        
+        // Speak
+        synthesizer.speak(contents)
     }
-
-
 }
-
