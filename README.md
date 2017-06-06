@@ -33,54 +33,46 @@ http://ios-class-for-beginner.esy.es/
 
 #### 1, Collect resources → Drag & Drop your resources into your project
   
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/0.png" /></div>
-  
   <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/0.gif" /></div>
 
 #### 2, Design app
-> 2-1. Drap & Drop "UITableView" from UI components
+######## UITextView
+> 2-1. Drap & Drop "UITextView" from UI components
   
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1.gif" /></div>
+  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1-1.gif" /></div>
 
-> 2-2. Resize UITableView. After that, set "Autoresizing" for adjusting frame depending on devices
+> 2-2. Resize UITextView. After that, set "Autoresizing" for adjusting frame depending on devices
   
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/2.gif" /></div>
+  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1-2.gif" /></div>
 
-> 2-3. Drap & Drop "UITableViewCell" from UI components
+> 2-3. Replace default text with your favorite text
   
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/3.gif" /></div>
+  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1-3.gif" /></div>
 
-> 2-4. After added "UIImageView", "UILabel" on the cell, do the same process of 2-2.
-  
-  ★  It might be easy to <a href="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/4.png">change tableView style</a> to "Grouped"
+######## UIButton
+> 2-4. Drap & Drop "UIButton" from UI components
 
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/4.gif" /></div>
+  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/2-1.gif" /></div>
   
-  Your storyboard may look like this
-  
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/5.png" /></div>
-  
-#### 3, Add a new file
-  
-  > 3-1. Add a file subclassed of "UITableViewCell"
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/5.gif" /></div>
+> 2-5. Set microphone image on your button
 
-  > 3-2. UITableViewCell
-  
-  ★  Don't forget to add "class name" and "identifer". Otherwise your app will be clashed
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/6.gif" /></div>
+  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/2-2.gif" /></div>
 
-#### 4, Connect UI components on Storyboard to the classes
+> 2-6. Resize UIButton. After that, set "Autoresizing" for adjusting frame depending on devices
+
+  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/2-3.gif" /></div>
+
+#### 3, Connect UI components on Storyboard to the classes
   
   ★  control + drag in storyboard to create a control segue
   
-  > 4-1. Connect "UITableVIew" to your ViewController class
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/7.gif" /></div>
+  > 3-1. Add action to your UIButton
+  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/3-1.gif" /></div>
   
-  > 4-2. Connect "UIImageView" to your UITableViewCell class
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/8.gif" /></div>
+  > 3-2. Connect "UITextView" to your UITableViewCell class
+  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/3-2.gif" /></div>
 
-#### 5, Add code blocks in ViewController.swift
+#### 4, Add code blocks in ViewController.swift
 
 ★ It's preferable to write following code yourself. It will help you to understand code more.
 
