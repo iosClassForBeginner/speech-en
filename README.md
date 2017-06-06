@@ -1,6 +1,6 @@
 # Code Together: Let's make iPhone app in an hour
 
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/resources/sample.png" /></div>
+  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/sample.png" /></div>
 
   Thank you for visiting our account. We are going to make a speech app in an hour. If would you like to study yourself before hands-on, or review what you have learned in the session, please use the following material.
 
@@ -33,52 +33,52 @@ http://ios-class-for-beginner.esy.es/
 
 #### 1, Collect resources → Drag & Drop your resources into your project
   
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/Resources/0.png" /></div>
+  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/0.png" /></div>
   
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/Resources/0.gif" /></div>
+  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/0.gif" /></div>
 
 #### 2, Design app
 > 2-1. Drap & Drop "UITableView" from UI components
   
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/Resources/1.gif" /></div>
+  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1.gif" /></div>
 
 > 2-2. Resize UITableView. After that, set "Autoresizing" for adjusting frame depending on devices
   
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/Resources/2.gif" /></div>
+  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/2.gif" /></div>
 
 > 2-3. Drap & Drop "UITableViewCell" from UI components
   
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/Resources/3.gif" /></div>
+  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/3.gif" /></div>
 
 > 2-4. After added "UIImageView", "UILabel" on the cell, do the same process of 2-2.
   
-  ★  It might be easy to <a href="https://github.com/iosClassForBeginner/speech-en/Resources/4.png">change tableView style</a> to "Grouped"
+  ★  It might be easy to <a href="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/4.png">change tableView style</a> to "Grouped"
 
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/Resources/4.gif" /></div>
+  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/4.gif" /></div>
   
   Your storyboard may look like this
   
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/Resources/5.png" /></div>
+  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/5.png" /></div>
   
 #### 3, Add a new file
   
   > 3-1. Add a file subclassed of "UITableViewCell"
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/Resources/5.gif" /></div>
+  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/5.gif" /></div>
 
   > 3-2. UITableViewCell
   
   ★  Don't forget to add "class name" and "identifer". Otherwise your app will be clashed
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/Resources/6.gif" /></div>
+  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/6.gif" /></div>
 
 #### 4, Connect UI components on Storyboard to the classes
   
   ★  control + drag in storyboard to create a control segue
   
   > 4-1. Connect "UITableVIew" to your ViewController class
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/Resources/7.gif" /></div>
+  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/7.gif" /></div>
   
   > 4-2. Connect "UIImageView" to your UITableViewCell class
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/Resources/8.gif" /></div>
+  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/8.gif" /></div>
 
 #### 5, Add code blocks in ViewController.swift
 
