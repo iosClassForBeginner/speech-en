@@ -40,19 +40,19 @@ http://ios-class-for-beginner.esy.es/
 > 2-1. Drap & Drop "UITextView"
 > <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1-1.gif" /></div></details>
 
-> 2-2. Resize UITextView. After that, set "Autoresizing" for adjusting frame depending on devices
+> 2-2. Resize "UITextView". After that, set "Autoresizing" for adjusting frame depending on devices
 > <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1-2.gif" /></div></details>
 
-> 2-3. Replace text
+> 2-3. Replace text of "UITextView"
 > <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1-3.gif" /></div></details>
 
 > 2-4. Drap & Drop "UIButton"
 > <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/2-1.gif" /></div></details>
 
-> 2-5. Set button image
+> 2-5. Set "UIButton" image
 > <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/2-2.gif" /></div></details>
 
-> 2-6. Resize UIButton. After that, set "Autoresizing"
+> 2-6. Resize "UIButton". Set "Autoresizing"
 > <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/2-3.gif" /></div></details>
 
 
@@ -63,7 +63,7 @@ http://ios-class-for-beginner.esy.es/
 > 3-1. Connect "UITextView"
 > <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/3-1.gif" /></div></details>
 
-> 3-2. Add button action
+> 3-2. Add action of "UIButton"
 > <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/3-2.gif" /></div></details>
 
 ## 4, Add code blocks in ViewController.swift
