@@ -28,27 +28,27 @@ http://ios-class-for-beginner.esy.es/
 
 ## 1, Drop your icon into your "Assets.xcassets"
 
->  **・<a href="http://www.flaticon.com/free-icon/microphone_444308#term=microphone&page=1&position=65">Microphone icon</a>**
 <details>
 <summary>View Gif</summary>
 <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/0.gif" /></div>
 </details>
+**・<a href="http://www.flaticon.com/free-icon/microphone_444308#term=microphone&page=1&position=65">Microphone icon</a>**
 
 ## 2, Design app
 #### 🗂 Main.storyboard
-> 2-1. Drap & Drop "UITextView" to your storyboard  
+#### 2-1. Drap & Drop "UITextView" to your storyboard  
 <details>
 <summary>View Gif</summary>
 <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1-1.gif" /></div>  
 </details>
 
-> 2-2. Resize UITextView. After that, set "Autoresizing" for adjusting frame depending on devices  
+#### 2-2. Resize UITextView. After that, set "Autoresizing" for adjusting frame depending on devices  
 <details>
 <summary>View Gif</summary>
 <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1-2.gif" /></div>  
 </details>
 
-> 2-3. Replace default text with your favorite text  
+#### 2-3. Replace default text with your favorite text  
 <details>
 <summary>View Gif</summary>
 <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1-3.gif" /></div>  
