@@ -43,35 +43,35 @@ http://ios-class-for-beginner.esy.es/
 <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1-1.gif" /></div>  
 </details>
 
-2-2. Resize UITextView. After that, set "Autoresizing" for adjusting frame depending on devices
 <details>
 <summary>View Gif</summary>
 <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1-2.gif" /></div>  
 </details>
+2-2. Resize UITextView. After that, set "Autoresizing" for adjusting frame depending on devices
 
-2-3. Replace default text with your favorite text
 <details>
 <summary>View Gif</summary>
 <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1-3.gif" /></div>  
 </details>
+2-3. Replace default text with your favorite text
  
-2-4. Drap & Drop "UIButton" from UI components
 <details>
 <summary>View Gif</summary>
 <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/2-1.gif" /></div>  
 </details>
+2-4. Drap & Drop "UIButton" from UI components
 
-2-5. Set microphone image on your button
 <details>
 <summary>View Gif</summary>
 <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/2-2.gif" /></div>  
 </details>
+2-5. Set microphone image on your button
 
-2-6. Resize UIButton. After that, set "Autoresizing" for adjusting frame depending on devices
 <details>
 <summary>View Gif</summary>
 <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/2-3.gif" /></div>  
 </details>
+2-6. Resize UIButton. After that, set "Autoresizing" for adjusting frame depending on devices
 
 ## 3, Connect UI components on Storyboard to the classes
 #### 🗂 Main.storyboard → ViewController.swift  
