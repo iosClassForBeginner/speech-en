@@ -29,21 +29,26 @@ http://ios-class-for-beginner.esy.es/
 ## 1, Drop your icon into your "Assets.xcassets"
 
 >  **・<a href="http://www.flaticon.com/free-icon/microphone_444308#term=microphone&page=1&position=65">Microphone icon</a>**
-
+> 
 > <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/0.gif" /></div>
 
 ## 2, Design app
 #### 🗂 Main.storyboard
 > 2-1. Drap & Drop "UITextView" to your storyboard  
 > <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1-1.gif" /></div>  
+> 
 > 2-2. Resize UITextView. After that, set "Autoresizing" for adjusting frame depending on devices  
 > <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1-2.gif" /></div>  
+> 
 > 2-3. Replace default text with your favorite text  
 > <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1-3.gif" /></div>  
+> 
 > 2-4. Drap & Drop "UIButton" from UI components  
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/2-1.gif" /></div>  
+> <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/2-1.gif" /></div>  
+> 
 > 2-5. Set microphone image on your button  
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/2-2.gif" /></div>  
+> <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/2-2.gif" /></div>  
+> 
 > 2-6. Resize UIButton. After that, set "Autoresizing" for adjusting frame depending on devices  
 > <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/2-3.gif" /></div>  
 
@@ -52,6 +57,7 @@ http://ios-class-for-beginner.esy.es/
   ★  control + drag in storyboard to create a control segue
 > 3-1. Connect "UITextView" to your UITableViewCell class  
 > <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/3-1.gif" /></div>
+> 
 > 3-2. Add action to your UIButton  
 > <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/3-2.gif" /></div>  
 
