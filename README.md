@@ -37,40 +37,40 @@ http://ios-class-for-beginner.esy.es/
 ## 2, Design app
 #### 🗂 Main.storyboard
 
-  2-1. Drap & Drop "UITextView" to your storyboard
-<details>
+> 2-1. Drap & Drop "UITextView" to your storyboard
+> <details>
 <summary>View Gif</summary>
-<div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1-1.gif" /></div>  
+<div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1-1.gif" /></div>
 </details>
 
-  2-2. Resize UITextView. After that, set "Autoresizing" for adjusting frame depending on devices
-<details>
+> 2-2. Resize UITextView. After that, set "Autoresizing" for adjusting frame depending on devices
+> <details>
 <summary>View Gif</summary>
-<div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1-2.gif" /></div>  
+<div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1-2.gif" /></div>
 </details>
 
-  2-3. Replace default text with your favorite text
-<details>
+> 2-3. Replace default text with your favorite text
+> <details>
 <summary>View Gif</summary>
-<div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1-3.gif" /></div>  
+<div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/1-3.gif" /></div>
 </details>
 
-  2-4. Drap & Drop "UIButton" from UI components
-<details>
+> 2-4. Drap & Drop "UIButton" from UI components
+> <details>
 <summary>View Gif</summary>
-<div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/2-1.gif" /></div>  
+<div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/2-1.gif" /></div>
 </details>
 
-  2-5. Set microphone image on your button
-<details>
+> 2-5. Set microphone image on your button
+> <details>
 <summary>View Gif</summary>
-<div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/2-2.gif" /></div>  
+<div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/2-2.gif" /></div>
 </details>
 
-  2-6. Resize UIButton. After that, set "Autoresizing" for adjusting frame depending on devices
-<details>
+> 2-6. Resize UIButton. After that, set "Autoresizing" for adjusting frame depending on devices
+> <details>
 <summary>View Gif</summary>
-<div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/2-3.gif" /></div>  
+<div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/2-3.gif" /></div>
 </details>
 
 
@@ -78,16 +78,16 @@ http://ios-class-for-beginner.esy.es/
 #### 🗂 Main.storyboard → ViewController.swift  
   ★  control + drag in storyboard to create a control segue
   
-3-1. Connect "UITextView" to your UITableViewCell class
-<details>
+> 3-1. Connect "UITextView" to your UITableViewCell class
+> <details>
 <summary>View Gif</summary>
-<div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/3-1.gif" /></div>  
+<div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/3-1.gif" /></div>
 </details>
 
-3-2. Add action to your UIButton
-<details>
+> 3-2. Add action to your UIButton
+> <details>
 <summary>View Gif</summary>
-<div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/3-2.gif" /></div>  
+<div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/3-2.gif" /></div>
 </details>
 
 ## 4, Add code blocks in ViewController.swift
