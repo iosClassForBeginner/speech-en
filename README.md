@@ -26,8 +26,9 @@ http://ios-class-for-beginner.esy.es/
 > 0-4. Fill "Product name" and then tap "Next"  
 > 0-5. Select the place for saving your project and then tap "Create"  
 
-## 1, Drop your icon into your "Assets.xcassets"
+## 1, Collect resource
 
+> 0-1. Drop your icon into your "Assets.xcassets"
 <details>
 <summary>View Gif</summary>
 <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/0.gif" /></div>
