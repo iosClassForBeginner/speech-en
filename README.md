@@ -28,12 +28,12 @@ http://ios-class-for-beginner.esy.es/
 
 ## 1, Collect resource
 
-> 0-1. Drop your icon into your "Assets.xcassets"
+> 1-1. Drop your icon into your "Assets.xcassets"
 <details>
 <summary>View Gif</summary>
 <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/speech-en/blob/master/resources/0.gif" /></div>
 </details>
-**・<a href="http://www.flaticon.com/free-icon/microphone_444308#term=microphone&page=1&position=65">Microphone icon</a>**
+・<a href="http://www.flaticon.com/free-icon/microphone_444308#term=microphone&page=1&position=65">Microphone icon</a>
 
 ## 2, Design your app
 #### 🗂 Main.storyboard
